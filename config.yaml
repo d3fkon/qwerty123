@@ -1,0 +1,13 @@
+---
+  metaData: 
+    author: "d3fkon"
+    git-repo: "https://github.com/d3fkon/qwerty123"
+    approval: 
+      approved-by: "d3fkon"
+      approval-date: 1564100944554
+  job: 
+    job-name: "d3fkonxqwerty123"
+    config: 
+      pre-unit-test: "yes"
+      post-unit-test: "no"
+      dev: "no"
